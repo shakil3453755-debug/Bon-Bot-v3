@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("MahMUD 🪽");
+process.stdout.write("ABDULLAH 🪽");
 const defaultRequire = require;
 
 function decode(text) {
